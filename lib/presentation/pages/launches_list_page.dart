@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart';
-import 'package:chiragar_spacex_explore/presentation/blocs_cubits/theme/theme_cubit.dart';
-import 'package:chiragar_spacex_explore/presentation/pages/rockets_list_page.dart'; // Create this
-import 'package:chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
+import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/theme/theme_cubit.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/pages/rockets_list_page.dart'; // Create this
+import 'package:chiragar_chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
 
 import 'company_info_page.dart';
 import 'favorites_page.dart';

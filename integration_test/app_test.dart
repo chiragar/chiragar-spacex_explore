@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
-import 'package:chiragar_spacex_explore/main.dart' as app; // Import your main.dart
-import 'package:chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
-import 'package:chiragar_spacex_explore/presentation/pages/launch_details_page.dart';
+import 'package:chiragar_chiragar_spacex_explore/main.dart' as app; // Import your main.dart
+import 'package:chiragar_chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/pages/launch_details_page.dart';
 
 
 void main() {

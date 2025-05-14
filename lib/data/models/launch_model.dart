@@ -1,5 +1,5 @@
 import 'rocket_model.dart';
-import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
 
 class LaunchModel extends Launch {
   const LaunchModel({

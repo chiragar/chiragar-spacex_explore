@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:intl/intl.dart';
-import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_spacex_explore/domain/entities/rocket.dart'; // For Rocket Specs
-import 'package:chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart'; // For Rocket Specs
+import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
 
 import 'package:url_launcher/url_launcher.dart';
 

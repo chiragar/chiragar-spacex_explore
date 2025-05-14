@@ -1,6 +1,6 @@
 import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:injectable/injectable.dart';
-import 'package:chiragar_spacex_explore/data/graphql/queries.dart';
+import 'package:chiragar_chiragar_spacex_explore/data/graphql/queries.dart';
 import '../../models/company_info_model.dart';
 import '../../models/launch_model.dart';
 import '../../models/rocket_model.dart';

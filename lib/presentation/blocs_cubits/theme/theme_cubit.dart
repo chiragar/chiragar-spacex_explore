@@ -4,7 +4,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:injectable/injectable.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:chiragar_spacex_explore/core/theme/app_theme.dart';
+import 'package:chiragar_chiragar_spacex_explore/core/theme/app_theme.dart';
 
 part 'theme_state.dart';
 

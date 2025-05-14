@@ -1,4 +1,4 @@
-import 'package:chiragar_spacex_explore/domain/entities/rocket.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart';
 
 class RocketModel extends Rocket {
   const RocketModel({

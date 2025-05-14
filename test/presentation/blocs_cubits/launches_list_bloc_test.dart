@@ -1,11 +1,11 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:chiragar_spacex_explore/core/utils/either.dart';
-import 'package:chiragar_spacex_explore/core/utils/failure.dart';
-import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_spacex_explore/domain/usecases/get_launches_usecase.dart';
-import 'package:chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart';
+import 'package:chiragar_chiragar_spacex_explore/core/utils/either.dart';
+import 'package:chiragar_chiragar_spacex_explore/core/utils/failure.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/usecases/get_launches_usecase.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart';
 
 class MockGetPastLaunchesUseCase extends Mock implements GetPastLaunchesUseCase {}
 class MockLaunch extends Mock implements Launch {} // For list creation

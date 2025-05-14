@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:injectable/injectable.dart';
-import 'package:chiragar_spacex_explore/domain/entities/rocket.dart';
-import 'package:chiragar_spacex_explore/domain/usecases/get_rocket_details_usecase.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/usecases/get_rocket_details_usecase.dart';
 
 part 'rocket_details_event.dart';
 part 'rocket_details_state.dart';

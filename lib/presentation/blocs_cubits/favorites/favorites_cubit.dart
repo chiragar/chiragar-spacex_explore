@@ -2,7 +2,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:injectable/injectable.dart'; // Import injectable
-import 'package:chiragar_spacex_explore/data/datasources/local/favorites_local_data_source.dart';
+import 'package:chiragar_chiragar_spacex_explore/data/datasources/local/favorites_local_data_source.dart';
 
 part 'favorites_state.dart';
 

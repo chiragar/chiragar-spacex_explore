@@ -2,9 +2,9 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_spacex_explore/presentation/pages/launch_details_page.dart';
-import 'package:chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/pages/launch_details_page.dart';
+import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
 
 class LaunchListItem extends StatelessWidget {
   final Launch launch;

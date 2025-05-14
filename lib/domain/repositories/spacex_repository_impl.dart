@@ -1,10 +1,10 @@
 import 'package:injectable/injectable.dart';
-import 'package:chiragar_spacex_explore/core/utils/either.dart';
-import 'package:chiragar_spacex_explore/core/utils/failure.dart';
-import 'package:chiragar_spacex_explore/data/datasources/remote/spacex_graphql_data_source.dart';
-import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_spacex_explore/domain/entities/rocket.dart';
-import 'package:chiragar_spacex_explore/data/repositories/spacex_repository.dart';
+import 'package:chiragar_chiragar_spacex_explore/core/utils/either.dart';
+import 'package:chiragar_chiragar_spacex_explore/core/utils/failure.dart';
+import 'package:chiragar_chiragar_spacex_explore/data/datasources/remote/spacex_graphql_data_source.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart';
+import 'package:chiragar_chiragar_spacex_explore/data/repositories/spacex_repository.dart';
 
 import '../entities/company_info.dart';
 // Import other entities/models
