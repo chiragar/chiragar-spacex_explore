@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/rockets_list/rockets_list_bloc.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/widgets/rocket_list_item.dart';
+import 'package:chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/rockets_list/rockets_list_bloc.dart';
+import 'package:chiragar_spacex_explore/presentation/widgets/rocket_list_item.dart';
 
 class RocketsListPage extends StatefulWidget {
   const RocketsListPage({super.key});

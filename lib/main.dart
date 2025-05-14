@@ -2,10 +2,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:graphql_flutter/graphql_flutter.dart'; // For initHiveForFlutter
-import 'package:chiragar_chiragar_spacex_explore/app.dart';
-import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/theme/theme_cubit.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
+import 'package:chiragar_spacex_explore/app.dart';
+import 'package:chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/theme/theme_cubit.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
 
 import 'presentation/blocs_cubits/launches_list/launches_list_bloc.dart'; // If you implement favorites
 

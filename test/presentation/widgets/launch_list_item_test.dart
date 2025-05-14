@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
+import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_spacex_explore/presentation/widgets/launch_list_item.dart';
 import 'package:cached_network_image/cached_network_image.dart'; // Mock this if needed or provide fallback
 
 void main() {

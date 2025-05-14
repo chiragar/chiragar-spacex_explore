@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart'; // To access loaded launches
-import 'package:chiragar_chiragar_spacex_explore/presentation/widgets/launch_list_item.dart'; // Your existing launch item
+import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/favorites/favorites_cubit.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/launches_list/launches_list_bloc.dart'; // To access loaded launches
+import 'package:chiragar_spacex_explore/presentation/widgets/launch_list_item.dart'; // Your existing launch item
 // lib/presentation/pages/favorites_page.dart
 // ... (imports) ...
 

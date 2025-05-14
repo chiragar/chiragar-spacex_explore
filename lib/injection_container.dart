@@ -3,7 +3,7 @@ import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:injectable/injectable.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:path_provider/path_provider.dart'; // Required for HiveStore path
-import 'package:chiragar_chiragar_spacex_explore/core/config/app_config.dart';
+import 'package:chiragar_spacex_explore/core/config/app_config.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 // This is the generated file. It will be created after you run the build_runner command.
 import 'injection_container.config.dart';

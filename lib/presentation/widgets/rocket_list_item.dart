@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/pages/rocket_details_page.dart'; // We'll create this next
+import 'package:chiragar_spacex_explore/domain/entities/rocket.dart';
+import 'package:chiragar_spacex_explore/presentation/pages/rocket_details_page.dart'; // We'll create this next
 
 class RocketListItem extends StatelessWidget {
   final Rocket rocket;

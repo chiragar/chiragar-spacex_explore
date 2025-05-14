@@ -2,8 +2,8 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:injectable/injectable.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/usecases/get_launches_usecase.dart';
+import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_spacex_explore/domain/usecases/get_launches_usecase.dart';
 import 'package:stream_transform/stream_transform.dart'; // For debounce
 
 part 'launches_list_event.dart';

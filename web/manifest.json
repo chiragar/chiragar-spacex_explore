@@ -1,6 +1,6 @@
 {
-    "name": "chiragar_chiragar_chiragar_spacex_explore",
-    "short_name": "chiragar_chiragar_chiragar_spacex_explore",
+    "name": "chiragar_chiragar_spacex_explore",
+    "short_name": "chiragar_chiragar_spacex_explore",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

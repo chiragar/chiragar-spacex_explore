@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:intl/intl.dart'; // For number formatting
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/company_info.dart';
-import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/company_info/company_info_bloc.dart';
+import 'package:chiragar_spacex_explore/domain/entities/company_info.dart';
+import 'package:chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/company_info/company_info_bloc.dart';
 
 class CompanyInfoPage extends StatefulWidget {
   const CompanyInfoPage({super.key});

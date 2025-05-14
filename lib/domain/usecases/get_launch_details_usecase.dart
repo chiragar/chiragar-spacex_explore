@@ -1,10 +1,10 @@
 import 'package:equatable/equatable.dart';
 import 'package:injectable/injectable.dart';
-import 'package:chiragar_chiragar_spacex_explore/core/usecases/usecase.dart';
-import 'package:chiragar_chiragar_spacex_explore/core/utils/either.dart';
-import 'package:chiragar_chiragar_spacex_explore/core/utils/failure.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/launch.dart';
-import 'package:chiragar_chiragar_spacex_explore/data/repositories/spacex_repository.dart';
+import 'package:chiragar_spacex_explore/core/usecases/usecase.dart';
+import 'package:chiragar_spacex_explore/core/utils/either.dart';
+import 'package:chiragar_spacex_explore/core/utils/failure.dart';
+import 'package:chiragar_spacex_explore/domain/entities/launch.dart';
+import 'package:chiragar_spacex_explore/data/repositories/spacex_repository.dart';
 
 @lazySingleton
 class GetLaunchDetailsUseCase implements UseCase<Launch, GetLaunchDetailsParams> {

@@ -1,4 +1,4 @@
-import 'package:chiragar_chiragar_spacex_explore/data/graphql/fragments.dart';
+import 'package:chiragar_spacex_explore/data/graphql/fragments.dart';
 
 class SpaceXQueries {
   // --- LAUNCH QUERIES ---

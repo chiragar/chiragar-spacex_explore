@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:intl/intl.dart';
-import 'package:chiragar_chiragar_spacex_explore/domain/entities/rocket.dart';
-import 'package:chiragar_chiragar_spacex_explore/injection_container.dart';
-import 'package:chiragar_chiragar_spacex_explore/presentation/blocs_cubits/rocket_details/rocket_details_bloc.dart';
+import 'package:chiragar_spacex_explore/domain/entities/rocket.dart';
+import 'package:chiragar_spacex_explore/injection_container.dart';
+import 'package:chiragar_spacex_explore/presentation/blocs_cubits/rocket_details/rocket_details_bloc.dart';
 // Import your favorites cubit if implementing favorites for rockets
-// import 'package:chiragar_chiragar_spacex_explorer/presentation/blocs_cubits/favorites/favorites_cubit.dart';
+// import 'package:chiragar_spacex_explorer/presentation/blocs_cubits/favorites/favorites_cubit.dart';
 
 class RocketDetailsPage extends StatefulWidget {
   final String rocketId;
